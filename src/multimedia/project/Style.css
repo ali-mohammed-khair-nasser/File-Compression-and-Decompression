@@ -1,0 +1,41 @@
+/* Start Main Anchor Pane */
+#Application { -fx-background-color: #FFFFFF; -fx-border-radius: 15px; -fx-background-radius: 15px; }
+#Application .close { -fx-background-color: transparent; -fx-background-image: url('../../GUI/CloseButton.png');}
+#Application .close:hover { -fx-background-color: transparent; -fx-background-image: url('../../GUI/CloseButtonHover.png'); }
+#Application .back { -fx-background-color: transparent; -fx-background-image: url('../../GUI/BackButton.png'); }
+#Application .back:hover { -fx-background-color: transparent; -fx-background-image: url('../../GUI/BackButtonHover.png'); }
+
+#Application .options .option-button { -fx-background-color: transparent; }
+#Application .options .option-button-compress { -fx-background-image: url('../../GUI/CompressButton.png'); }
+#Application .options .option-button-decompress { -fx-background-image: url('../../GUI/DecompressButton.png'); }
+#Application .options .option-button-algorithm { -fx-background-image: url('../../GUI/SelectSettingsButton.png'); }
+
+#Application .options .option-button-compress:hover { -fx-background-image: url('../../GUI/CompressButtonHover.png'); }
+#Application .options .option-button-decompress:hover  { -fx-background-image: url('../../GUI/DecompressButtonHover.png'); }
+#Application .options .option-button-algorithm:hover { -fx-background-image: url('../../GUI/SelectSettingsButtonHover.png'); }
+/* End Main Anchor Pane */
+
+/* Start Upload Box */
+#Application .options-pane { -fx-background-color: #FFFFFF; -fx-border-radius: 15px; -fx-background-radius: 15px; }
+#Application .options-pane .upload-box { -fx-background-image: url('../../GUI/UploadBox.png'); }
+#Application .options-pane .upload-box .browse-button { -fx-background-color: transparent; }
+#Application .options-pane .start-button { -fx-background-color: #2091DE; -fx-border-radius: 50px; -fx-background-radius: 50px; -fx-padding: 12px 80px; }
+#Application .options-pane .start-button:hover { -fx-background-color: #0AB70A; }
+
+#Application .options-pane .scroll-pane, #Application .options-pane .scroll-pane > * { -fx-background-color: transparent; }
+
+#Application .options-pane .radio-box { -fx-border-radius: 15px; -fx-background-radius: 15px; -fx-background-color: transparent; }
+#Application .options-pane .radio-box:hover { -fx-background-color: #F7F7FB; }
+
+#Application .options-pane .radio-button { -fx-text-fill: #1F2532; }
+#Application .options-pane .radio-button .radio { -fx-background-color: #FFFFFF; -fx-border-color: #8C96A8; -fx-border-radius: 50%; -fx-background-radius: 50%; -fx-padding: 4px; }
+
+#Application .options-pane .radio-button:selected { -fx-text-fill: #2091DE; }
+#Application .options-pane .radio-button:selected .radio { -fx-background-color: #FFFFFF; -fx-border-color: #2091DE; -fx-border-radius: 50%; -fx-background-radius: 50%; -fx-padding: 4px; }
+#Application .options-pane .radio-button:selected .radio .dot { -fx-background-color: #2091DE; -fx-background-insets: 0; -fx-padding: 6px; }
+#Application .options-pane .separator-color *.line { -fx-border-color: #C6CCD6; -fx-border-width: .5px }
+
+#Application .loading-pane { -fx-background-color: rgba(255, 255, 255, .9); -fx-border-radius: 15px; -fx-background-radius: 15px; }
+#Application .options-pane .output-anchorpane Pane { -fx-border-radius: 15px; -fx-background-radius: 15px; -fx-background-color: transparent; }
+#Application .options-pane .output-anchorpane Pane:hover { -fx-background-color: #F7F7FB; }
+/* End Upload Box */

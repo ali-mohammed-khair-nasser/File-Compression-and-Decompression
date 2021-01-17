@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import java.lang.String?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="Application" fx:id="ApplicationStage" prefHeight="651.0" prefWidth="843.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="multimedia.project.FXMLDocumentController">
+   <children>
+      <Pane fx:id="MainPane" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Pane layoutY="60.0" prefHeight="80.0" prefWidth="843.0" styleClass="welcomPane" stylesheets="@Style.css">
+               <children>
+                  <Text fill="#2091de" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="Welcome to file compressor!" textAlignment="CENTER" wrappingWidth="842.8200073242188">
+                     <font>
+                        <Font name="Segoe UI Semilight" size="42.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#8c96a8" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="Select zipping algorithm then pick an option ( compress or decompress ) to continue to file compressor!" textAlignment="CENTER" wrappingWidth="842.8200073242188">
+                     <font>
+                        <Font name="Segoe UI" size="16.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="90.0" layoutY="190.0" prefHeight="248.0" prefWidth="660.0" styleClass="options" stylesheets="@Style.css">
+               <children>
+                  <Button id="Compress_Files" mnemonicParsing="false" onMousePressed="#getButtonID" prefHeight="247.84" prefWidth="200.0" stylesheets="@Style.css">
+                     <styleClass>
+                        <String fx:value="option-button" />
+                        <String fx:value="option-button-compress" />
+                     </styleClass>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </Button>
+                  <Button id="Decompress_Files" layoutX="231.0" mnemonicParsing="false" onMousePressed="#getButtonID" prefHeight="247.84" prefWidth="200.0" stylesheets="@Style.css">
+                     <styleClass>
+                        <String fx:value="option-button" />
+                        <String fx:value="option-button-decompress" />
+                     </styleClass>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </Button>
+                  <Button id="Select_Algorithm" layoutX="463.0" mnemonicParsing="false" onMousePressed="#getButtonID" prefHeight="247.84" prefWidth="200.0" stylesheets="@Style.css">
+                     <styleClass>
+                        <String fx:value="option-button" />
+                        <String fx:value="option-button-algorithm" />
+                     </styleClass>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </Button>
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+      <Pane fx:id="CompressDecompressPane" layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0" styleClass="options-pane" stylesheets="@Style.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Text fx:id="UploadingText" fill="#1f2532" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="File upload" textAlignment="CENTER" wrappingWidth="842.8200073242188">
+               <font>
+                  <Font name="Segoe UI Semilight" size="42.0" />
+               </font>
+            </Text>
+            <Pane layoutX="105.0" layoutY="138.0" onDragDropped="#handelDragAndDropFiles" onDragOver="#dragAndDropFiles" prefHeight="205.0" prefWidth="632.0" styleClass="upload-box" stylesheets="@Style.css">
+               <children>
+                  <Text fill="#8c96a8" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="Drag and drop or             your files" textAlignment="CENTER" wrappingWidth="631.9999897316429">
+                     <font>
+                        <Font name="Segoe UI" size="16.0" />
+                     </font>
+                  </Text>
+                  <Button fx:id="BrowseButton" layoutX="309.0" layoutY="145.0" mnemonicParsing="false" styleClass="browse-button" stylesheets="@Style.css" text="browse" textFill="#2091de" underline="true">
+                     <font>
+                        <Font name="Segoe UI" size="16.0" />
+                     </font>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                  </Button>
+               </children></Pane>
+            <ScrollPane layoutX="105.0" layoutY="360.0" prefHeight="205.0" prefWidth="632.0" styleClass="scroll-pane-slider" stylesheets="@Style.css">
+              <content>
+                <AnchorPane fx:id="MainUploadViewPane" minHeight="0.0" minWidth="0.0" prefHeight="105.0" prefWidth="617.0" />
+              </content>
+            </ScrollPane>
+            <Button fx:id="StartActionButton" layoutX="283.0" layoutY="580.0" mnemonicParsing="false" onAction="#StartAction" styleClass="start-button" stylesheets="@Style.css" text="OK! LET'S START" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Button fx:id="BackButton" contentDisplay="CENTER" mnemonicParsing="false" onMousePressed="#backStage" prefHeight="48.0" prefWidth="48.0" styleClass="back" stylesheets="@Style.css">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+         </children>
+      </Pane>
+      <Pane fx:id="SelectAlgorithmPane" prefHeight="200.0" prefWidth="200.0" styleClass="options-pane" stylesheets="@Style.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button contentDisplay="CENTER" mnemonicParsing="false" onMousePressed="#backStage" prefHeight="48.0" prefWidth="48.0" styleClass="back" stylesheets="@Style.css">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Text fill="#1f2532" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="Select compressing algorithm" textAlignment="CENTER" wrappingWidth="842.8200073242188">
+               <font>
+                  <Font name="Segoe UI Semilight" size="42.0" />
+               </font>
+            </Text>
+            <Pane layoutX="68.0" layoutY="130.0" onMousePressed="#selectAlgorithm" prefHeight="142.0" prefWidth="706.0" styleClass="radio-box" stylesheets="@Style.css">
+               <children>
+                  <RadioButton layoutX="14.0" layoutY="14.0" mnemonicParsing="false" selected="true" text="Continue with Shannon-fano" textFill="#1f2532">
+                     <font>
+                        <Font name="Segoe UI" size="18.0" />
+                     </font>
+                     <toggleGroup>
+                        <ToggleGroup fx:id="SelectAlgorithmType" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <Text fill="#8c96a8" layoutX="47.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Create a list of probabilities or frequency counts for the given set of symbols so that the relativefrequency of occurrence of each symbol is known. Then sort the list of symbols in decreasingorder of probability, the most probable ones to the left and least probable to the right. And splitthe list into two parts, with the total probability of both the parts being." wrappingWidth="650.0">
+                     <font>
+                        <Font name="Segoe UI" size="15.0" />
+                     </font>
+                  </Text>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane layoutX="68.0" layoutY="270.0" onMousePressed="#selectAlgorithm" prefHeight="142.0" prefWidth="706.0" styleClass="radio-box" stylesheets="@Style.css">
+               <children>
+                  <RadioButton layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Continue with LZW" textFill="#1f2532" toggleGroup="$SelectAlgorithmType">
+                     <font>
+                        <Font name="Segoe UI" size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <Text fill="#8c96a8" layoutX="47.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Initialize the dictionary to contain all strings of length one. Then find the longest string W in thedictionary that matches the current input. And emit the dictionary index for W to output and remove W from the input. Finally, add W followed by the next symbol in the input to the dictionary." wrappingWidth="650.0">
+                     <font>
+                        <Font name="Segoe UI" size="15.0" />
+                     </font>
+                  </Text>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <Pane layoutX="68.0" layoutY="410.0" onMousePressed="#selectAlgorithm" prefHeight="142.0" prefWidth="706.0" styleClass="radio-box" stylesheets="@Style.css">
+               <children>
+                  <RadioButton layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Continue with Lossy" textFill="#1f2532" toggleGroup="$SelectAlgorithmType">
+                     <font>
+                        <Font name="Segoe UI" size="18.0" />
+                     </font>
+                      </RadioButton>
+                  <Text fill="#8c96a8" layoutX="47.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Convert RGB image into YCbCr, Apply on luma(Y) the followings: Divide The image into 8*8 blocks, DCT , Quantization, Zigzag, DPCM on DC Coefficients, RLC on ACs, Huffman Coding of AC Coefficient. And for Croma(CbCr) apply subsampling." wrappingWidth="650.0">
+                     <font>
+                        <Font name="Segoe UI" size="15.0" />
+                     </font>
+                  </Text>
+               </children>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Pane>
+            <RadioButton layoutX="283.0" layoutY="597.0" mnemonicParsing="false" selected="true" stylesheets="@Style.css" text="Files">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <toggleGroup>
+                  <ToggleGroup fx:id="SelectCompressingType" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton layoutX="368.0" layoutY="597.0" mnemonicParsing="false" stylesheets="@Style.css" text="Directories" toggleGroup="$SelectCompressingType">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </RadioButton>
+            <Text fill="#1f2532" layoutX="68.0" layoutY="613.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select compressing type:">
+               <font>
+                  <Font name="Segoe UI" size="18.0" />
+               </font>
+            </Text>
+            <Separator layoutX="68.0" layoutY="560.0" prefWidth="706.0" styleClass="separator-color" stylesheets="@Style.css" />
+            <Button layoutX="569.0" layoutY="584.0" mnemonicParsing="false" onAction="#getOptions" styleClass="start-button" stylesheets="@Style.css" text="APPLY" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+         </children>
+      </Pane>
+      <Pane fx:id="LoadingPane" prefHeight="200.0" prefWidth="200.0" styleClass="loading-pane" stylesheets="@Style.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ImageView fitHeight="110.0" fitWidth="146.0" layoutX="349.0" layoutY="271.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../GUI/Loader.gif" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+      <Pane fx:id="OutputPane" prefHeight="200.0" prefWidth="200.0" styleClass="options-pane" stylesheets="@Style.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Text fx:id="OutputPaneText" fill="#1f2532" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="welcome-title" text="Output" textAlignment="CENTER" wrappingWidth="842.8200073242188">
+               <font>
+                  <Font name="Segoe UI Semilight" size="42.0" />
+               </font>
+            </Text>
+            <Button layoutX="285.0" layoutY="581.0" mnemonicParsing="false" onAction="#backToHome" styleClass="start-button" stylesheets="@Style.css" text="BACK TO HOME" textFill="WHITE">
+               <font>
+                  <Font name="Segoe UI" size="16.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <ScrollPane layoutX="105.0" layoutY="135.0" prefHeight="419.0" prefWidth="632.0" styleClass="scroll-pane-slider" stylesheets="@Style.css">
+               <content>
+                  <AnchorPane fx:id="OutputScrollView" minHeight="0.0" minWidth="0.0" prefHeight="105.0" prefWidth="617.0" styleClass="output-anchorpane" stylesheets="@Style.css" />
+               </content>
+            </ScrollPane>
+         </children>
+      </Pane>
+      <Button fx:id="CloseButton" contentDisplay="CENTER" mnemonicParsing="false" onMousePressed="#closeApp" prefHeight="48.0" prefWidth="48.0" styleClass="close" stylesheets="@Style.css" AnchorPane.leftAnchor="794.82" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>
