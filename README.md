@@ -17,6 +17,12 @@ To run this project make sure you have the Java installed on your device then fo
 - Create new javaFX project in your IDE.
 - Copy ```src``` folder to your project then run the file ``` MultimediaProject.java ```
 
-# How this algorithms work?
+# How does this algorithms work?
 ### LZW-compression
+The LZW algorithm is a very common compression technique. This algorithm is typically used in GIF and optionally in PDF and TIFF. Unix’s ‘compress’ command, among other uses. It is lossless, meaning no data is lost when compressing. The algorithm is simple to implement and has the potential for very high throughput in hardware implementations. It is the algorithm of the widely used Unix file compression utility compress, and is used in the GIF image format.
+
 The main idea behind this algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, etc), and replaces the pattern with a code (in case of images, it will replace that pattern with a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
+
+### Compression using LZW
+- Example compress the string: **BABAABAAA**.
+- The steps involved are systematically shown in the diagram below.
