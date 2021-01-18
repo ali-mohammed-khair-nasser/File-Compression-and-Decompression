@@ -23,7 +23,10 @@ The LZW algorithm is a very common compression technique. This algorithm is typi
 
 The main idea behind this algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, etc), and replaces the pattern with a code (in case of images, it will replace that pattern with a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
 
-### Compression using LZW
+#### Compression using LZW
 - Example compress the string: **BABAABAAA**.
 - The steps involved are systematically shown in the diagram below.
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/lzw-compress.png" width="1200">
+
+#### LZW Decompression
+The LZW decompressor creates the same string table during decompression. It starts with the first 256 table entries initialized to single characters. The string table is updated for each character in the input stream, except the first one.Decoding achieved by reading codes and translating them through the code table being built.
