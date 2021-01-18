@@ -32,7 +32,7 @@ The main idea behind this algorithm is that it looks for repeated patterns of da
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/lzw-compress.png" width="1200">
 
 ### LZW Decompression
-The LZW decompressor creates the same string table during decompression. It starts with the first 256 table entries initialized to single characters. The string table is updated for each character in the input stream, except the first one.Decoding achieved by reading codes and translating them through the code table being built.
+The LZW decompressor creates the same string table during decompression. It starts with the first 256 table entries initialized to single characters. The string table is updated for each character in the input stream, except the first one. Decoding achieved by reading codes and translating them through the code table being built.
 
 ### Shannon Fano Algorithm
 The Shannon Fano Algorithm is an entropy encoding technique for lossless data compression of multimedia. Named after Claude Shannon and Robert Fano, it assigns a code to each symbol based on their probabilities of occurrence. It is a variable length encoding scheme, that is, the codes assigned to the symbols will be of varying length. The steps of the algorithm are as follows:
@@ -46,7 +46,7 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="1200">
 
 ### JPEG images compression
-In this algorithm we work with images only so the input data is only the pixels of this image. After get image apply the following steps:
+JPEG stands for Joint Photographic Experts Group. In this algorithm we work with images only so after getting the input image will apply the following steps:
 - split our image into the blocks of 8x8 blocks. It forms 64 blocks in which each block is referred to as 1 pixel. 
 - Color Space Transform from RBG to YCbCr model.
 - Apply DCT on each block. DCT represents an image as a sum of sinusoids of varying magnitudes and frequencies. 
@@ -59,4 +59,5 @@ In this algorithm we work with images only so the input data is only the pixels 
 Here is a list of sources I used to build this project:
 - [Shannon-Fano Algorithm for Data Compression](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/)
 - [LZW (Lempel–Ziv–Welch) Compression](https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/)
+- Joint Photographic Experts Group Compression [JPEG Compression](https://www.whydomath.org/node/wavlets/basicjpg.html)
 - Java and javaFX tutorials on Youtube.
