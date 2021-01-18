@@ -18,4 +18,4 @@ To run this project make sure you have the Java installed on your device then fo
 
 # How this algorithms work?
 ### LZW-compression
-The main idea behind this algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, ...etc), and replaces the pattern with a code (in case of images, it will replace that pattern with a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
+The main idea behind this algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, etc), and replaces the pattern with a code (in case of images, it will replace that pattern with a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
