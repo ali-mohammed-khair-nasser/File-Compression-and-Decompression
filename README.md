@@ -17,20 +17,21 @@ To run this project make sure you have the Java installed on your device then fo
 - Create new javaFX project in your IDE.
 - Copy ```src``` folder to your project then run the file ``` MultimediaProject.java ```
 
-# LZW Algorithm
+# How does it work?
+### LZW Algorithm
 The LZW algorithm is a very common compression technique. This algorithm is typically used in GIF and optionally in PDF and TIFF. Unix’s ‘compress’ command, among other uses. It is lossless, meaning no data is lost when compressing. The algorithm is simple to implement and has the potential for very high throughput in hardware implementations. It is the algorithm of the widely used Unix file compression utility compress, and is used in the GIF image format.
 
 The main idea behind this algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, etc), and replaces the pattern with a code (in case of images, it will replace that pattern with a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
 
-### LZW Compression
-- Example compress the string: **BABAABAAA**.
+### Compression Example
+- The input string: **BABAABAAA**.
 - The steps involved are systematically shown in the diagram below.
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/lzw-compress.png" width="1200">
 
 ### LZW Decompression
 The LZW decompressor creates the same string table during decompression. It starts with the first 256 table entries initialized to single characters. The string table is updated for each character in the input stream, except the first one.Decoding achieved by reading codes and translating them through the code table being built.
 
-# Shannon Fano Algorithm
+### Shannon Fano Algorithm
 The Shannon Fano Algorithm is an entropy encoding technique for lossless data compression of multimedia. Named after Claude Shannon and Robert Fano, it assigns a code to each symbol based on their probabilities of occurrence. It is a variable length encoding scheme, that is, the codes assigned to the symbols will be of varying length. The steps of the algorithm are as follows:
 - Create a frequency count list for given set of symbols so that the relative frequency of each symbol is known.
 - Sort the list of symbols in decreasing order, the most frequency ones to the left and least frequency to the right.
