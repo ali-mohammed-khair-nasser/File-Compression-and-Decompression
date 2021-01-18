@@ -10,6 +10,7 @@ Java is the number 1 programming language and development platform. It reduces c
 
 ### JavaFX GUI
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/ui.svg" width="1200">
+
 For the user interface I used JavaFX which is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms. You can use your favorite editor or any integrated development environment (IDE) that supports the Java language (such as NetBeans, Eclipse, or IntelliJ IDEA) to create and edit JavaFX applications or you can use third-party application to edit ``` .fxml ``` file like Scenebuilder which is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
 - Download Scene builder from [oracle.com/javafx](https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html)
 
