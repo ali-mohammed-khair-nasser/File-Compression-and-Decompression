@@ -59,5 +59,5 @@ JPEG stands for Joint Photographic Experts Group. In this algorithm we work with
 Here is a list of sources I used to build this project:
 - [Shannon-Fano Algorithm for Data Compression](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/)
 - [LZW (Lempel-Ziv-Welch) Compression](https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/)
-- Joint Photographic Experts Group Compression [whydomath.org](https://www.whydomath.org/node/wavlets/basicjpg.html)
+- JPEG (Joint Photographic Experts Group) Compression [whydomath.org](https://www.whydomath.org/node/wavlets/basicjpg.html)
 - Java and javaFX tutorials on Youtube.
