@@ -41,5 +41,9 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 - Repeat the steps 3 and 4 for each part, until all the symbols are split into individual subgroups.
 - After getting the Shannon-fano tree then calculate the Shannon codes for each symbol. 
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="1200">
+
 # References
 Here is a list of sources I used to build this project:
+- [Shannon-Fano Algorithm for Data Compression](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/)
+- [LZW (Lempel–Ziv–Welch) Compression](https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/)
+- JavaFX Playlist on [youtube.com](https://www.youtube.com/watch?v=LeTj5BR79C4&list=PL383vhYFx-7owa-bxRJixFfdxDF3HnAkt&index=1)
