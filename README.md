@@ -4,7 +4,7 @@ To reduce the time needed for files to be transmitted over a network, Compressio
 
 # Project Requirements
 ### Java  programming language
-Java is the number 1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves application services. With millions of developers running more than 51 billion Java Virtual Machines worldwide, Java continues to be the development platform of choice for enterprises and developers. You sholud have basic knowledge of coding and syntax formats of java for this project. And you should have ```JDK version 8``` or newer installed on your machine.
+Java is the number 1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves application services. With millions of developers running more than 51 billion Java Virtual Machines worldwide, Java continues to be the development platform of choice for enterprises and developers. You sholud have basic knowledge of coding and syntax formats of java for this project. And you should have **JDK version 8** or newer installed on your machine.
 - Install JDK from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Download NetBeans IDE from [netbeans.org](https://netbeans.org/images_www/v6/download/community/8.2/)
 
