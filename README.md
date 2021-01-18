@@ -45,7 +45,7 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 - After getting the Shannon-fano tree then calculate the Shannon codes for each symbol. 
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="1200">
 
-### JPEG images compression
+### JPEG Images Compression
 JPEG stands for Joint Photographic Experts Group. In this algorithm we work with images only so after getting the input image will apply the following steps:
 - split our image into the blocks of 8x8 blocks. It forms 64 blocks in which each block is referred to as 1 pixel. 
 - Color Space Transform from RBG to YCbCr model.
