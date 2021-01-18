@@ -39,4 +39,4 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 - Assign the value 0 to the left part and 1 to the right part.
 - Repeat the steps 3 and 4 for each part, until all the symbols are split into individual subgroups.
 - After getting the Shannon-fano tree then calculate the Shannon codes for each symbol. 
-<img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="1200">
+<img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="600">
