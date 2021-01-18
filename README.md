@@ -26,3 +26,4 @@ The main idea behind this algorithm is that it looks for repeated patterns of da
 ### Compression using LZW
 - Example compress the string: **BABAABAAA**.
 - The steps involved are systematically shown in the diagram below.
+<img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/lzw-compress.png" width="1200">
