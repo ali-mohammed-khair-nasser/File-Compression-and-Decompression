@@ -32,7 +32,7 @@ The LZW decompressor creates the same string table during decompression. It star
 
 # Shannon Fano Algorithm
 The Shannon Fano Algorithm is an entropy encoding technique for lossless data compression of multimedia. Named after Claude Shannon and Robert Fano, it assigns a code to each symbol based on their probabilities of occurrence. It is a variable length encoding scheme, that is, the codes assigned to the symbols will be of varying length. The steps of the algorithm are as follows:
-- Create a list of frequency counts for the given set of symbols so that the relative frequency of each symbol is known.
+- Create a frequency count list for given set of symbols so that the relative frequency of each symbol is known.
 - Sort the list of symbols in decreasing order, the most frequency ones to the left and least frequency to the right.
 - Split the list into two parts, with the total probability of both the parts being as close to each other as possible.
 - The splitting stopped when each symbol is separated.
