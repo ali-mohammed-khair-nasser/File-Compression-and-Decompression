@@ -6,9 +6,10 @@ To reduce the time needed for files to be transmitted over a network, Compressio
 ### Java  programming language
 Java is the number 1 programming language and development platform. It reduces costs, shortens development timeframes, drives innovation, and improves application services. With millions of developers running more than 51 billion Java Virtual Machines worldwide, Java continues to be the development platform of choice for enterprises and developers. You sholud have basic knowledge of coding and syntax formats of java for this project. And you should have JDK version 8 or newer installed on your machine.
 
-For the GUI I used JavaFX which is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms. You can use your favorite editor or any integrated development environment (IDE) that supports the Java language (such as NetBeans, Eclipse, or IntelliJ IDEA) to create and edit JavaFX applications or you can use third-party application to edit ``` .fxml ``` file like Scenebuilder which is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
+### User Interface
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/ui.svg" width="1200">
 
+For the GUI I used JavaFX which is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms. You can use your favorite editor or any integrated development environment (IDE) that supports the Java language (such as NetBeans, Eclipse, or IntelliJ IDEA) to create and edit JavaFX applications or you can use third-party application to edit ``` .fxml ``` file like Scenebuilder which is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
 - Install JDK from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Download Scene builder from [oracle.com/javafx](https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html)
 - Download NetBeans IDE from [netbeans.org](https://netbeans.org/images_www/v6/download/community/8.2/)
