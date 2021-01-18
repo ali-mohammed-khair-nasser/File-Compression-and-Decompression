@@ -46,14 +46,13 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 <img src="https://github.com/ali-mohamed-nasser/File-Compression/blob/main/images/fannon-shano.png" width="1200">
 
 ### JPEG images compression
-In this algorithm we work with images only so the input data is only the pixels of this image and when we input an image first we convert the R, G, B color format to Y, Cb, Cr format. Some colors are more sensitive to human eyes and thus are high-frequency colors. Some colors of chromium compounds like Cb and Cr are less sensitive to human eyes thus can be ignored. Then we reduce the size of pixels in downsampling. We divide our image into 8x8 pixels and perform forward DCT(Direct Cosine Transformation). Then we perform quantization using quantum tables and we compress our data using various encoding methods like run-length encoding and Huffman encoding. So the steps of the algorithm are as follows:
+In this algorithm we work with images only so the input data is only the pixels of this image. After get image apply the following steps:
 - split our image into the blocks of 8x8 blocks. It forms 64 blocks in which each block is referred to as 1 pixel. 
 - Color Space Transform from RBG to YCbCr model.
 - Apply DCT on each block. DCT represents an image as a sum of sinusoids of varying magnitudes and frequencies. 
 - Quantize image data using the quantization table. 
 - Apply the zig-zag scanning pattern to exploit redundancy. 
 - Apply DPCM on DC elements. DC elements are used to define the strength of colors.
-
 *Note: This algorithm is lossy algorithm so there is no go back to original input image.
 
 # References
