@@ -9,3 +9,13 @@ Java is the number 1 programming language and development platform. It reduces c
 For the GUI I used JavaFX which is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms. You can use your favorite editor or any integrated development environment (IDE) that supports the Java language (such as NetBeans, Eclipse, or IntelliJ IDEA) to create and edit JavaFX applications or you can use third-party application to edit ``` .fxml ``` file like Scenebuilder which is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding.
 - Install JDK from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Download Scene builder from [oracle.com/javafx](https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html)
+
+# Usage
+To run this project make sure you have the Java installed on your device then follow the steps given below:
+- Clone or download this repository ``` https://github.com/ali-mohamed-nasser/File-Compression.git ```
+- Create new javaFX project in your IDE.
+- Copy src folder to your project then run the file ``` MultimediaProject.java ```
+
+# How this algorithms work?
+### LZW-compression
+LZW (Lempel-Ziv-Welch) compression is one of the earlier compression algorithms, created in 1978! It mainly became popular for compressing the GIF image format. The main idea behind the algorithm is that it looks for repeated patterns of data (character sequence, bit sequences, etc.), and replaces the pattern with a code (in this case, a value between 0 and 255). A dictionary holds the mapping between a data sequence and a corresponding code, so when a pattern is seen later in the data, we can check to see if it has been encountered already, and if so, replace it with the corresponding code from the dictionary.
