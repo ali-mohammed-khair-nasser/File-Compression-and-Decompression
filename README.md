@@ -55,7 +55,7 @@ JPEG stands for Joint Photographic Experts Group. In this algorithm we work with
 - Apply DPCM on DC elements. DC elements are used to define the strength of colors.
 - This algorithm is lossy algorithm so there is no go back to original input image.
 
-<img src="https://www-i6.informatik.rwth-aachen.de/web/Misc/Coding/365/li/material/notes/Chap4/Chap4.2/jpeg-encoder.gif" width="1200">
+<img src="https://www-i6.informatik.rwth-aachen.de/web/Misc/Coding/365/li/material/notes/Chap4/Chap4.2/jpeg-encoder.gif" width="800">
 
 # References
 Here is a list of sources I used to build this project:
