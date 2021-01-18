@@ -53,8 +53,8 @@ In this algorithm we work with images only so the input data is only the pixels 
 - Quantize image data using the quantization table. 
 - Apply the zig-zag scanning pattern to exploit redundancy. 
 - Apply DPCM on DC elements. DC elements are used to define the strength of colors.
-*Note: This algorithm is lossy algorithm so there is no go back to original input image.
 
+*Note: This algorithm is lossy algorithm so there is no go back to original input image.
 # References
 Here is a list of sources I used to build this project:
 - [Shannon-Fano Algorithm for Data Compression](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/)
