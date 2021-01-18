@@ -14,7 +14,7 @@ For the GUI I used JavaFX which is a set of graphics and media packages that ena
 To run this project make sure you have the Java installed on your device then follow the steps given below:
 - Clone or download this repository ``` https://github.com/ali-mohamed-nasser/File-Compression.git ```
 - Create new javaFX project in your IDE.
-- Copy src folder to your project then run the file ``` MultimediaProject.java ```
+- Copy ```src``` folder to your project then run the file ``` MultimediaProject.java ```
 
 # How this algorithms work?
 ### LZW-compression
