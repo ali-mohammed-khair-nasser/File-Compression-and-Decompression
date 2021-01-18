@@ -46,4 +46,4 @@ The Shannon Fano Algorithm is an entropy encoding technique for lossless data co
 Here is a list of sources I used to build this project:
 - [Shannon-Fano Algorithm for Data Compression](https://www.geeksforgeeks.org/shannon-fano-algorithm-for-data-compression/)
 - [LZW (Lempel–Ziv–Welch) Compression](https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/)
-- JavaFX Playlist on [youtube.com](https://www.youtube.com/watch?v=LeTj5BR79C4&list=PL383vhYFx-7owa-bxRJixFfdxDF3HnAkt&index=1)
+- Java and javaFX tutorials on Youtube.
