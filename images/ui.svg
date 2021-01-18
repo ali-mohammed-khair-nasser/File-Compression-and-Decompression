@@ -1,0 +1,283 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1736" height="1212" viewBox="0 0 1736 1212">
+  <defs>
+    <clipPath id="clip-Web_1920_6">
+      <rect width="1736" height="1212"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_6" data-name="Web 1920 – 6" clip-path="url(#clip-Web_1920_6)">
+    <rect width="1736" height="1212" fill="#fff"/>
+    <g id="Group_44" data-name="Group 44" transform="translate(-34 -27)">
+      <g id="Group_6" data-name="Group 6" transform="translate(-436 -170.663)">
+        <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(480 211)" fill="#fff" stroke="#c6ccd6" stroke-width="1">
+          <rect width="842.819" height="577.357" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841.819" height="576.357" rx="14.5" fill="none"/>
+        </g>
+        <text id="Welcome_to_file_compressor_" data-name="Welcome to file compressor!" transform="translate(899.091 322.663)" fill="#2091de" font-size="43" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="-263.553" y="0">Welcome to file compressor!</tspan></text>
+        <g id="Group_28" data-name="Group 28">
+          <path id="Rectangle_28" data-name="Rectangle 28" d="M0,0H33A15,15,0,0,1,48,15V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1275 210.663)" fill="#f7f7fb" opacity="0"/>
+          <g id="Group_5" data-name="Group 5" transform="translate(1299.054 219.725) rotate(45)">
+            <line id="Line_3" data-name="Line 3" y2="19.303" transform="translate(9.651)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+            <line id="Line_4" data-name="Line 4" y2="19.303" transform="translate(19.303 9.651) rotate(90)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="200" height="247.844" rx="8" transform="translate(135 240)" fill="#f7f7fb"/>
+      <g id="zip_1_" data-name="zip (1)" transform="translate(158.235 291.84)">
+        <path id="Path_3" data-name="Path 3" d="M102.395,0A6.414,6.414,0,0,0,96,6.395V95.924a6.414,6.414,0,0,0,6.395,6.395h63.949a6.414,6.414,0,0,0,6.395-6.395V25.58L147.16,0Z" transform="translate(-51.21)" fill="#e2e5e7"/>
+        <path id="Path_4" data-name="Path 4" d="M358.395,25.58H377.58L352,0V19.185A6.414,6.414,0,0,0,358.395,25.58Z" transform="translate(-256.051)" fill="#b0b7bd"/>
+        <path id="Path_5" data-name="Path 5" d="M403.185,147.185,384,128h19.185Z" transform="translate(-281.656 -102.42)" fill="#cad1d8"/>
+        <path id="Path_6" data-name="Path 6" d="M108.739,275.172a3.207,3.207,0,0,1-3.2,3.2H35.2a3.207,3.207,0,0,1-3.2-3.2V243.2a3.207,3.207,0,0,1,3.2-3.2h70.344a3.207,3.207,0,0,1,3.2,3.2Z" transform="translate(0 -192.038)" fill="#2091de"/>
+        <path id="Path_10" data-name="Path 10" d="M156.752,419.2H96v3.2h60.752a3.207,3.207,0,0,0,3.2-3.2V416A3.207,3.207,0,0,1,156.752,419.2Z" transform="translate(-51.21 -332.866)" fill="#cad1d8"/>
+        <text id="Zip" transform="translate(70.765 73.16)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-13.267" y="0">ZIP</tspan></text>
+      </g>
+      <text id="Compress_Files" data-name="Compress Files" transform="translate(173 460)" fill="#2091de" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Compress Files</tspan></text>
+      <g id="Group_27" data-name="Group 27" transform="translate(-495 -181)">
+        <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(860 421)" fill="#f9f9fb" stroke="#c6ccd6" stroke-width="1" opacity="0">
+          <rect width="200" height="247.844" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="199" height="246.844" rx="7.5" fill="none"/>
+        </g>
+        <g id="zip_1_2" data-name="zip (1)" transform="translate(883.235 472.84)">
+          <path id="Path_3-2" data-name="Path 3" d="M102.395,0A6.414,6.414,0,0,0,96,6.395V95.924a6.414,6.414,0,0,0,6.395,6.395h63.949a6.414,6.414,0,0,0,6.395-6.395V25.58L147.16,0Z" transform="translate(-51.21)" fill="#e2e5e7"/>
+          <path id="Path_4-2" data-name="Path 4" d="M358.395,25.58H377.58L352,0V19.185A6.414,6.414,0,0,0,358.395,25.58Z" transform="translate(-256.051)" fill="#b0b7bd"/>
+          <path id="Path_5-2" data-name="Path 5" d="M403.185,147.185,384,128h19.185Z" transform="translate(-281.656 -102.42)" fill="#cad1d8"/>
+          <path id="Path_6-2" data-name="Path 6" d="M108.739,275.172a3.207,3.207,0,0,1-3.2,3.2H35.2a3.207,3.207,0,0,1-3.2-3.2V243.2a3.207,3.207,0,0,1,3.2-3.2h70.344a3.207,3.207,0,0,1,3.2,3.2Z" transform="translate(0 -192.038)" fill="#8c96a8"/>
+          <path id="Path_10-2" data-name="Path 10" d="M156.752,419.2H96v3.2h60.752a3.207,3.207,0,0,0,3.2-3.2V416A3.207,3.207,0,0,1,156.752,419.2Z" transform="translate(-51.21 -332.866)" fill="#cad1d8"/>
+          <text id="unZip" transform="translate(70.765 73.16)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-26.9" y="0">UNZIP</tspan></text>
+        </g>
+        <text id="Decompress_Files" data-name="Decompress Files" transform="translate(888 641)" fill="#8c96a8" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Decompress Files</tspan></text>
+      </g>
+      <text id="Select_zipping_algorithm_then_pick_an_option_compress_or_decompress_to_continue" data-name="Select zipping algorithm then pick an option ( compress or decompress ) to continue" transform="translate(110 185)" fill="#8c96a8" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select zipping algorithm then pick an option ( compress or decompress ) to continue</tspan></text>
+      <g id="Group_26" data-name="Group 26" transform="translate(-495 -181)">
+        <rect id="Rectangle_14" data-name="Rectangle 14" width="200" height="247.844" rx="8" transform="translate(1090 421)" fill="#f9f9fb" opacity="0"/>
+        <text id="Compress_Settings" data-name="Compress Settings" transform="translate(1191 641)" fill="#8c96a8" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-77.906" y="0">Compress Settings</tspan></text>
+        <g id="zip_1_3" data-name="zip (1)" transform="translate(1113.235 472.84)">
+          <path id="Path_3-3" data-name="Path 3" d="M102.395,0A6.414,6.414,0,0,0,96,6.395V95.924a6.414,6.414,0,0,0,6.395,6.395h63.949a6.414,6.414,0,0,0,6.395-6.395V25.58L147.16,0Z" transform="translate(-51.21)" fill="#e2e5e7"/>
+          <path id="Path_4-3" data-name="Path 4" d="M358.395,25.58H377.58L352,0V19.185A6.414,6.414,0,0,0,358.395,25.58Z" transform="translate(-256.051)" fill="#b0b7bd"/>
+          <path id="Path_5-3" data-name="Path 5" d="M403.185,147.185,384,128h19.185Z" transform="translate(-281.656 -102.42)" fill="#cad1d8"/>
+          <g id="Group_15" data-name="Group 15" transform="translate(27.959 -169.056)">
+            <path id="Path_17" data-name="Path 17" d="M51.623,235.2a22.381,22.381,0,0,0-1.631-2.44,2.962,2.962,0,0,1-.353-3.01l.821-1.843a2.97,2.97,0,0,0-1.228-3.781l-6.086-3.514a2.97,2.97,0,0,0-3.889.827l-1.186,1.634a2.962,2.962,0,0,1-2.786,1.2,22.217,22.217,0,0,0-5.858,0,2.958,2.958,0,0,1-2.779-1.2l-1.183-1.63a2.97,2.97,0,0,0-3.889-.827l-6.086,3.514a2.97,2.97,0,0,0-1.228,3.781l.82,1.84a2.958,2.958,0,0,1-.351,3.007,22.212,22.212,0,0,0-2.927,5.075,2.962,2.962,0,0,1-2.432,1.813l-2.008.21A2.97,2.97,0,0,0,4.7,242.809v7.027a2.97,2.97,0,0,0,2.661,2.954l2.006.21a2.962,2.962,0,0,1,2.43,1.81,22.428,22.428,0,0,0,2.929,5.073,2.962,2.962,0,0,1,.353,3.01l-.821,1.843a2.97,2.97,0,0,0,1.228,3.781l6.086,3.514a2.97,2.97,0,0,0,3.889-.827l1.186-1.634a2.962,2.962,0,0,1,2.786-1.2,22.219,22.219,0,0,0,5.858,0,2.958,2.958,0,0,1,2.779,1.2l1.183,1.63a2.97,2.97,0,0,0,3.889.827l6.086-3.514a2.97,2.97,0,0,0,1.228-3.781l-.82-1.84a2.958,2.958,0,0,1,.351-3.007,22.212,22.212,0,0,0,2.927-5.075A2.962,2.962,0,0,1,55.35,253l2.008-.21a2.97,2.97,0,0,0,2.661-2.954v-7.027a2.97,2.97,0,0,0-2.661-2.954l-2.006-.21a2.962,2.962,0,0,1-2.43-1.81,22.422,22.422,0,0,0-1.3-2.632Z" fill="#8c96a8"/>
+            <path id="Path_18" data-name="Path 18" d="M189.913,492.864l-.017.009a2.97,2.97,0,0,1-3.889-.828l-1.184-1.63a2.954,2.954,0,0,0-1.385-1.047c.536-.03,1.075-.081,1.611-.152a2.96,2.96,0,0,1,2.78,1.2l1.182,1.63A2.953,2.953,0,0,0,189.913,492.864Z" transform="translate(-146.749 -220.843)" fill="#b0b7bd"/>
+            <path id="Path_19" data-name="Path 19" d="M14.471,0A14.471,14.471,0,1,1,0,14.471,14.471,14.471,0,0,1,14.471,0Z" transform="translate(17.89 231.851)" fill="#b0b7bd"/>
+            <circle id="Ellipse_2" data-name="Ellipse 2" cx="5.776" cy="5.776" r="5.776" transform="translate(26.585 240.547)" fill="#e2e5e7"/>
+          </g>
+          <g id="Group_16" data-name="Group 16" transform="translate(72.086 -182.412)">
+            <path id="Path_17-2" data-name="Path 17" d="M26.38,227.139a10.341,10.341,0,0,0-.753-1.127,1.368,1.368,0,0,1-.163-1.39l.379-.851a1.372,1.372,0,0,0-.567-1.747L22.464,220.4a1.372,1.372,0,0,0-1.8.382l-.548.755a1.368,1.368,0,0,1-1.287.554,10.263,10.263,0,0,0-2.706,0,1.367,1.367,0,0,1-1.284-.554l-.547-.753a1.372,1.372,0,0,0-1.8-.382l-2.812,1.623a1.372,1.372,0,0,0-.567,1.747l.379.85a1.367,1.367,0,0,1-.162,1.389,10.262,10.262,0,0,0-1.352,2.345,1.368,1.368,0,0,1-1.123.838l-.928.1A1.372,1.372,0,0,0,4.7,230.653V233.9a1.372,1.372,0,0,0,1.229,1.365l.927.1a1.368,1.368,0,0,1,1.123.836,10.361,10.361,0,0,0,1.353,2.343,1.368,1.368,0,0,1,.163,1.39l-.379.851a1.372,1.372,0,0,0,.567,1.747l2.812,1.623a1.372,1.372,0,0,0,1.8-.382l.548-.755a1.368,1.368,0,0,1,1.287-.554,10.264,10.264,0,0,0,2.706,0,1.367,1.367,0,0,1,1.284.554l.547.753a1.372,1.372,0,0,0,1.8.382l2.812-1.623a1.372,1.372,0,0,0,.567-1.747l-.379-.85a1.367,1.367,0,0,1,.162-1.389,10.262,10.262,0,0,0,1.352-2.345,1.368,1.368,0,0,1,1.123-.838l.928-.1a1.372,1.372,0,0,0,1.229-1.365v-3.247a1.372,1.372,0,0,0-1.229-1.365l-.927-.1a1.368,1.368,0,0,1-1.123-.836,10.359,10.359,0,0,0-.6-1.216Z" fill="#8c96a8"/>
+            <path id="Path_18-2" data-name="Path 18" d="M186.429,490.887l-.008,0a1.372,1.372,0,0,1-1.8-.383l-.547-.753a1.364,1.364,0,0,0-.64-.484c.248-.014.5-.037.744-.07a1.367,1.367,0,0,1,1.284.554l.546.753A1.364,1.364,0,0,0,186.429,490.887Z" transform="translate(-163.957 -246.738)" fill="#b0b7bd"/>
+            <path id="Path_19-2" data-name="Path 19" d="M6.685,0A6.685,6.685,0,1,1,0,6.685,6.685,6.685,0,0,1,6.685,0Z" transform="translate(10.796 225.591)" fill="#b0b7bd"/>
+            <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="2.668" cy="2.668" r="2.668" transform="translate(14.813 229.608)" fill="#e2e5e7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_45" data-name="Group 45" transform="translate(-47 -27)">
+      <g id="Group_6-2" data-name="Group 6" transform="translate(450.909 -170.663)">
+        <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(480 211)" fill="#fff" stroke="#c6ccd6" stroke-width="1">
+          <rect width="842.819" height="577.357" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841.819" height="576.357" rx="14.5" fill="none"/>
+        </g>
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(586.091 329.663)" fill="#f7f7fb" stroke="#c6ccd6" stroke-width="1" stroke-dasharray="5">
+          <rect width="632" height="205" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="631" height="204" rx="7.5" fill="none"/>
+        </g>
+        <text id="File_upload" data-name="File upload" transform="translate(798.091 291.663)" fill="#1f2532" font-size="43" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="0" y="0">File upload</tspan></text>
+        <g id="Group_39" data-name="Group 39" transform="translate(601.959 579.193)">
+          <g id="Subtraction_3" data-name="Subtraction 3" transform="translate(0.132 0.47)" fill="#fff">
+            <path d="M 39 58.5 L 5 58.5 C 2.51869010925293 58.5 0.5 56.4813117980957 0.5 54 L 0.5 5 C 0.5 2.51869010925293 2.51869010925293 0.5 5 0.5 L 39 0.5 C 41.4813117980957 0.5 43.5 2.51869010925293 43.5 5 L 43.5 54 C 43.5 56.4813117980957 41.4813117980957 58.5 39 58.5 Z" stroke="none"/>
+            <path d="M 5 1 C 2.794391632080078 1 1 2.794391632080078 1 5 L 1 54 C 1 56.20560836791992 2.794391632080078 58 5 58 L 39 58 C 41.20560836791992 58 43 56.20560836791992 43 54 L 43 5 C 43 2.794391632080078 41.20560836791992 1 39 1 L 5 1 M 5 0 L 39 0 C 41.76142120361328 0 44 2.238571166992188 44 5 L 44 54 C 44 56.76142120361328 41.76142120361328 59 39 59 L 5 59 C 2.238571166992188 59 0 56.76142120361328 0 54 L 0 5 C 0 2.238571166992188 2.238571166992188 0 5 0 Z" stroke="none" fill="#8c96a8"/>
+          </g>
+        </g>
+        <text id="Drag_and_drop_or_browse_your_files" data-name="Drag and drop or browse your files" transform="translate(753.091 493.663)" fill="#8c96a8" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Drag and drop or </tspan><tspan y="0" fill="#2091de" text-decoration="underline">browse</tspan><tspan y="0" fill="#2091de"> </tspan><tspan y="0">your files</tspan></text>
+        <g id="Union_2" data-name="Union 2" transform="translate(2651 614)" fill="#fff">
+          <path d="M -2007.909057617188 24.16270065307617 L -2018.450805664063 24.16270065307617 L -2043.909057617188 24.16270065307617 C -2043.974853515625 24.16270065307617 -2044.03125 24.16167068481445 -2044.081420898438 24.15954971313477 C -2045.248291015625 24.11511993408203 -2046.336547851563 23.6276798248291 -2047.14794921875 22.78694915771484 C -2047.96142578125 21.94403076171875 -2048.409423828125 20.83465957641602 -2048.409423828125 19.66320037841797 L -2048.409423828125 6.662699699401855 C -2048.409423828125 6.638390064239502 -2048.409423828125 6.613329887390137 -2048.40869140625 6.589019775390625 L -2048.408447265625 6.580859661102295 L -2048.408447265625 6.572700023651123 L -2048.408447265625 -35.33670043945313 C -2048.408447265625 -37.81822967529297 -2046.390014648438 -39.83710098266602 -2043.909057617188 -39.83710098266602 L -2018.450805664063 -39.83710098266602 C -2015.96923828125 -39.83710098266602 -2013.950317382813 -37.81822967529297 -2013.950317382813 -35.33670043945313 L -2013.950317382813 -6.529150009155273 L -2013.950317382813 -6.328249931335449 L -2013.811279296875 -6.183200359344482 L -2004.75244140625 3.269497632980347 L -2004.829711914063 3.350009918212891 L -2004.526611328125 3.694909811019897 C -2003.8056640625 4.515309810638428 -2003.40869140625 5.569289684295654 -2003.40869140625 6.662699699401855 L -2003.40869140625 19.66320037841797 C -2003.40869140625 22.14422988891602 -2005.427490234375 24.16270065307617 -2007.909057617188 24.16270065307617 Z" stroke="none"/>
+          <path d="M -2007.909057617188 23.66270065307617 C -2005.703247070313 23.66270065307617 -2003.90869140625 21.8685302734375 -2003.90869140625 19.66320037841797 L -2003.90869140625 6.662699699401855 C -2003.90869140625 5.690829753875732 -2004.261474609375 4.754059791564941 -2004.902221679688 4.02495002746582 L -2005.50830078125 3.335159778594971 L -2005.445190429688 3.269308567047119 L -2014.17236328125 -5.837240219116211 L -2014.450317382813 -6.127340316772461 L -2014.450317382813 -6.529150009155273 L -2014.450317382813 -35.33670043945313 C -2014.450317382813 -37.54253005981445 -2016.244873046875 -39.33710098266602 -2018.450805664063 -39.33710098266602 L -2043.909057617188 -39.33710098266602 C -2046.114379882813 -39.33710098266602 -2047.908447265625 -37.54253005981445 -2047.908447265625 -35.33670043945313 L -2047.908447265625 6.572700023651123 L -2047.908447265625 6.589029788970947 L -2047.908935546875 6.605340003967285 C -2047.909545898438 6.624269962310791 -2047.909423828125 6.64376974105835 -2047.909423828125 6.662699699401855 L -2047.909423828125 19.66320037841797 C -2047.909423828125 20.7044506072998 -2047.51123046875 21.69050025939941 -2046.788208007813 22.43972969055176 C -2046.06689453125 23.18710899353027 -2045.099609375 23.62042045593262 -2044.060302734375 23.65999031066895 C -2044.017211914063 23.66180992126465 -2043.9677734375 23.66270065307617 -2043.909057617188 23.66270065307617 L -2018.450805664063 23.66270065307617 L -2007.909057617188 23.66270065307617 M -2007.909057617188 24.66270065307617 L -2018.450805664063 24.66270065307617 L -2043.909057617188 24.66270065307617 C -2043.973876953125 24.66270065307617 -2044.038696289063 24.66180038452148 -2044.1025390625 24.65909957885742 C -2046.773803710938 24.55739974975586 -2048.909423828125 22.35960006713867 -2048.909423828125 19.66320037841797 L -2048.909423828125 6.662699699401855 C -2048.909423828125 6.632999897003174 -2048.909423828125 6.602399826049805 -2048.908447265625 6.572700023651123 L -2048.908447265625 -35.33670043945313 C -2048.908447265625 -38.09880065917969 -2046.670288085938 -40.33710098266602 -2043.909057617188 -40.33710098266602 L -2018.450805664063 -40.33710098266602 C -2015.688598632813 -40.33710098266602 -2013.450317382813 -38.09880065917969 -2013.450317382813 -35.33670043945313 L -2013.450317382813 -6.529150009155273 L -2004.059692382813 3.269699811935425 L -2004.151000976563 3.364869832992554 C -2003.377563476563 4.245069980621338 -2002.90869140625 5.399059772491455 -2002.90869140625 6.662699699401855 L -2002.90869140625 19.66320037841797 C -2002.90869140625 22.42440032958984 -2005.147827148438 24.66270065307617 -2007.909057617188 24.66270065307617 Z" stroke="none" fill="#8c96a8"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(869.566 372.442)">
+          <g id="Subtraction_2" data-name="Subtraction 2" transform="translate(-0.475 6.221)" fill="#f9f9fb">
+            <path d="M 51.00030136108398 74.50060272216797 L 5.000401020050049 74.50060272216797 C 2.518870830535889 74.50060272216797 0.5000008344650269 72.48172760009766 0.5000008344650269 70.00019836425781 L 0.5000008344650269 5.000401496887207 C 0.5000008344650269 2.518871307373047 2.518870830535889 0.5000013709068298 5.000401020050049 0.5000013709068298 L 37.12540054321289 0.5000013709068298 L 37.12540054321289 20.29410171508789 L 37.12540054321289 20.79410171508789 L 37.62540054321289 20.79410171508789 L 55.49980163574219 20.79410171508789 L 55.49980163574219 70.00019836425781 C 55.49980163574219 72.48172760009766 53.48133087158203 74.50060272216797 51.00030136108398 74.50060272216797 Z" stroke="none"/>
+            <path d="M 51.00030136108398 74.00060272216797 C 53.20563125610352 74.00060272216797 54.99980163574219 72.20603179931641 54.99980163574219 70.00019836425781 L 54.99980163574219 21.29410171508789 L 37.62540054321289 21.29410171508789 L 36.62540054321289 21.29410171508789 L 36.62540054321289 20.29410171508789 L 36.62540054321289 1.000001311302185 L 5.000401020050049 1.000001311302185 C 2.794570922851563 1.000001311302185 1.000000834465027 2.794571399688721 1.000000834465027 5.000401496887207 L 1.000000834465027 70.00019836425781 C 1.000000834465027 72.20603179931641 2.794570922851563 74.00060272216797 5.000401020050049 74.00060272216797 L 51.00030136108398 74.00060272216797 M 51.00030136108398 75.00060272216797 L 5.000401020050049 75.00060272216797 C 2.243170738220215 75.00060272216797 8.178710686479462e-07 72.75743103027344 8.178710686479462e-07 70.00019836425781 L 8.178710686479462e-07 5.000401496887207 C 8.178710686479462e-07 2.243171453475952 2.243170738220215 1.361083945994324e-06 5.000401020050049 1.361083945994324e-06 L 37.62540054321289 1.361083945994324e-06 L 37.62540054321289 20.29410171508789 L 55.99980163574219 20.29410171508789 L 55.99980163574219 70.00019836425781 C 55.99980163574219 72.75743103027344 53.75703048706055 75.00060272216797 51.00030136108398 75.00060272216797 Z" stroke="none" fill="#c3c8d2"/>
+          </g>
+          <g id="Subtraction_1" data-name="Subtraction 1" transform="translate(6.525 0.221)" fill="#fff">
+            <path d="M 51.00030517578125 74.50060272216797 L 5.000406742095947 74.50060272216797 C 2.518876552581787 74.50060272216797 0.5000065565109253 72.48172760009766 0.5000065565109253 70.00019836425781 L 0.5000065565109253 5.000401496887207 C 0.5000065565109253 2.518871307373047 2.518876552581787 0.5000013709068298 5.000406742095947 0.5000013709068298 L 37.93684005737305 0.5000013709068298 L 55.49980545043945 18.21089935302734 L 55.49980545043945 70.00019836425781 C 55.49980545043945 72.48172760009766 53.4813346862793 74.50060272216797 51.00030517578125 74.50060272216797 Z" stroke="none"/>
+            <path d="M 51.00030517578125 74.00060272216797 C 53.20563507080078 74.00060272216797 54.99980545043945 72.20603179931641 54.99980545043945 70.00019836425781 L 54.99980545043945 18.41679000854492 L 37.72849655151367 1.000001311302185 L 5.000406742095947 1.000001311302185 C 2.794576644897461 1.000001311302185 1.000006556510925 2.794571399688721 1.000006556510925 5.000401496887207 L 1.000006556510925 70.00019836425781 C 1.000006556510925 72.20603179931641 2.794576644897461 74.00060272216797 5.000406742095947 74.00060272216797 L 51.00030517578125 74.00060272216797 M 51.00030517578125 75.00060272216797 L 5.000406742095947 75.00060272216797 C 2.243176460266113 75.00060272216797 6.539917194459122e-06 72.75743103027344 6.539917194459122e-06 70.00019836425781 L 6.539917194459122e-06 5.000401496887207 C 6.539917194459122e-06 2.243171453475952 2.243176460266113 1.361083945994324e-06 5.000406742095947 1.361083945994324e-06 L 38.14517593383789 1.361083945994324e-06 L 55.99980545043945 18.0050220489502 L 55.99980545043945 70.00019836425781 C 55.99980545043945 72.75743103027344 53.75703811645508 75.00060272216797 51.00030517578125 75.00060272216797 Z" stroke="none" fill="#8c96a8"/>
+          </g>
+          <g id="Group_1" data-name="Group 1" transform="translate(44.747 0.439)">
+            <g id="Group_1-2" data-name="Group 1">
+              <line id="Line_1" data-name="Line 1" y2="18.425" fill="none" stroke="#8c96a8" stroke-width="1"/>
+              <line id="Line_2" data-name="Line 2" x1="19" transform="translate(-0.222 17.783)" fill="none" stroke="#8c96a8" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_3" data-name="Group 3" transform="translate(25.006 31.148)">
+            <line id="Line_3-2" data-name="Line 3" y2="19.303" transform="translate(9.651)" fill="none" stroke="#2091de" stroke-width="3"/>
+            <line id="Line_4-2" data-name="Line 4" y2="19.303" transform="translate(19.303 9.651) rotate(90)" fill="none" stroke="#2091de" stroke-width="3"/>
+          </g>
+        </g>
+        <line id="Line_5" data-name="Line 5" x2="539.602" transform="translate(669.08 608.901)" fill="none" stroke="#c6ccd6" stroke-linecap="round" stroke-width="5"/>
+        <line id="Line_6" data-name="Line 6" x2="393.076" transform="translate(669.08 608.901)" fill="none" stroke="#2091de" stroke-linecap="round" stroke-width="5"/>
+        <text id="IMG_3892.jpg" transform="translate(669.091 592.663)" fill="#1f2532" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">IMG_3892.jpg</tspan></text>
+        <text id="Uploading..._72_" data-name="Uploading...   72%" transform="translate(1090.091 633.663)" fill="#2091de" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Uploading...   72%</tspan></text>
+        <text id="File_size:_7_8_MB_-_File_type:_JPG" data-name="File size: 7,8 MB - File type: JPG" transform="translate(669.091 633.663)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">File size: 7,8 MB - File type: JPG</tspan></text>
+        <g id="Group_29" data-name="Group 29">
+          <rect id="Rectangle_8" data-name="Rectangle 8" width="382" height="60" rx="30" transform="translate(711.091 691.663)" fill="#2091de"/>
+          <text id="Ok_Let_s_start" data-name="Ok! Let&apos;s start" transform="translate(902.091 728.663)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-67.799" y="0">OK! LET&apos;S START</tspan></text>
+        </g>
+        <g id="Group_5-2" data-name="Group 5" transform="translate(1299.054 219.725) rotate(45)">
+          <line id="Line_3-3" data-name="Line 3" y2="19.303" transform="translate(9.651)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+          <line id="Line_4-3" data-name="Line 4" y2="19.303" transform="translate(19.303 9.651) rotate(90)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_31" data-name="Group 31" transform="translate(392 -211)">
+        <g id="Group_30" data-name="Group 30" transform="translate(-736 40.337)" opacity="0">
+          <path id="Rectangle_28-2" data-name="Rectangle 28" d="M15,0H48a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1275 210.663)" fill="#f7f7fb"/>
+        </g>
+        <path id="ios-arrow-left" d="M169,96.909,168.03,96,160,103.5l8.03,7.5.97-.9-7.055-6.6Z" transform="translate(397 170)" fill="#8c96a8" stroke="#8c96a8" stroke-width="0.7"/>
+      </g>
+    </g>
+    <g id="Group_43" data-name="Group 43" transform="translate(-34 -26)">
+      <g id="Group_6-3" data-name="Group 6" transform="translate(-436.091 436.337)">
+        <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(480 211)" fill="#fff" stroke="#c6ccd6" stroke-width="1">
+          <rect width="842.819" height="577.357" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841.819" height="576.357" rx="14.5" fill="none"/>
+        </g>
+        <text id="Select_compressing_options" data-name="Select compressing options" transform="translate(899.091 291.663)" fill="#1f2532" font-size="43" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="-252.468" y="0">Select compressing options</tspan></text>
+        <g id="Group_5-3" data-name="Group 5" transform="translate(1299.054 219.725) rotate(45)">
+          <line id="Line_3-4" data-name="Line 3" y2="19.303" transform="translate(9.651)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+          <line id="Line_4-4" data-name="Line 4" y2="19.303" transform="translate(19.303 9.651) rotate(90)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_31-2" data-name="Group 31" transform="translate(-495 396)">
+        <g id="Group_30-2" data-name="Group 30" transform="translate(-736 40.337)" opacity="0">
+          <path id="Rectangle_28-3" data-name="Rectangle 28" d="M15,0H48a0,0,0,0,1,0,0V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1275 210.663)" fill="#f7f7fb"/>
+        </g>
+        <path id="ios-arrow-left-2" data-name="ios-arrow-left" d="M169,96.909,168.03,96,160,103.5l8.03,7.5.97-.9-7.055-6.6Z" transform="translate(397 170)" fill="#8c96a8" stroke="#8c96a8" stroke-width="0.7"/>
+      </g>
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="706" height="114" rx="15" transform="translate(112 768)" fill="#f7f7fb"/>
+      <g id="Group_32" data-name="Group 32" transform="translate(-615 222)">
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(742 567)" fill="#fff" stroke="#2091de" stroke-width="1">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.5" fill="none"/>
+        </g>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(746 571)" fill="#2091de" stroke="#2091de" stroke-width="1">
+          <circle cx="6" cy="6" r="6" stroke="none"/>
+          <circle cx="6" cy="6" r="5.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Continue_with_Shannon-fano" data-name="Continue with Shannon-fano" transform="translate(157 805)" fill="#2091de" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Continue with Shannon-fano</tspan></text>
+      <text id="Create_a_list_of_probabilities_or_frequency_counts_for_the_given_set_of_symbols_so_that_the_relative_frequency_of_known." data-name="Create a list of probabilities or frequency counts for the given set of symbols so that the relative
+frequency of known." transform="translate(157 836)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Create a list of probabilities or frequency counts for the given set of symbols so that the relative</tspan><tspan x="0" y="20">frequency of known.</tspan></text>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="706" height="108" rx="15" transform="translate(112 882)" fill="#f7f7fb" opacity="0"/>
+      <g id="Group_33" data-name="Group 33" transform="translate(-615 332)">
+        <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(742 567)" fill="#fff" stroke="#8c96a8" stroke-width="1">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Continue_with_LZW" data-name="Continue with LZW" transform="translate(157 915)" fill="#1f2532" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Continue with LZW</tspan></text>
+      <text id="Contain_all_strings_of_length_one._Then_find_the_longest_string_W_in_the_dictionary_that_matches_the_current_input." data-name="Contain all strings of length one. Then find the longest string W in the dictionary that matchesthe current input." transform="translate(157 946)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Contain all strings of length one. Then find the longest string W in the dictionary that matches</tspan><tspan x="0" y="20">the current input.</tspan></text>
+      <text id="Select_compressing_type:" data-name="Select compressing type:" transform="translate(112 1159)" fill="#1f2532" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select compressing type:</tspan></text>
+      <g id="Group_34" data-name="Group 34" transform="translate(-412 577)">
+        <g id="Ellipse_3-3" data-name="Ellipse 3" transform="translate(742 567)" fill="#fff" stroke="#2091de" stroke-width="1">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.5" fill="none"/>
+        </g>
+        <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(746 571)" fill="#2091de" stroke="#2091de" stroke-width="1">
+          <circle cx="6" cy="6" r="6" stroke="none"/>
+          <circle cx="6" cy="6" r="5.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Files" transform="translate(360 1161)" fill="#2091de" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Files</tspan></text>
+      <g id="Group_35" data-name="Group 35" transform="translate(-326 577)">
+        <g id="Ellipse_3-4" data-name="Ellipse 3" transform="translate(742 567)" fill="#fff" stroke="#8c96a8" stroke-width="1">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Directories" transform="translate(446 1161)" fill="#1f2532" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Directories</tspan></text>
+      <line id="Line_9" data-name="Line 9" x2="706" transform="translate(112.5 1105.5)" fill="none" stroke="#c6ccd6" stroke-width="1"/>
+      <g id="Group_36" data-name="Group 36" transform="translate(-232 536)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="181" height="60" rx="30" transform="translate(870 589)" fill="#2091de"/>
+        <text id="apply" transform="translate(960 626)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-25.935" y="0">APPLY</tspan></text>
+      </g>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="706" height="108" rx="15" transform="translate(112 988)" fill="#f7f7fb" opacity="0"/>
+      <g id="Group_41" data-name="Group 41" transform="translate(-615 438)">
+        <g id="Ellipse_3-5" data-name="Ellipse 3" transform="translate(742 567)" fill="#fff" stroke="#8c96a8" stroke-width="1">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Continue_to_compress_images_with_lossy_JPEG" data-name="Continue to compress images with lossy JPEG" transform="translate(157 1021)" fill="#1f2532" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Continue to compress images with lossy JPEG</tspan></text>
+      <text id="Initialize_the_dictionary_to_contain_all_strings_of_length_one._Then_find_the_longest_string_W_in_the_dictionary_that_matches_the_current_input." data-name="Initialize the dictionary to contain all strings of length one. Then find the longest string W in the
+dictionary that matches the current input." transform="translate(157 1052)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Initialize the dictionary to contain all strings of length one. Then find the longest string W in the</tspan><tspan x="0" y="20">dictionary that matches the current input.</tspan></text>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(-37 -26)">
+      <g id="Group_6-4" data-name="Group 6" transform="translate(440.909 436.337)">
+        <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(480 211)" fill="#fff" stroke="#c6ccd6" stroke-width="1">
+          <rect width="842.819" height="577.357" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841.819" height="576.357" rx="14.5" fill="none"/>
+        </g>
+        <text id="Compressed_files" data-name="Compressed files" transform="translate(899.091 291.663)" fill="#1f2532" font-size="43" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="-156.599" y="0">Compressed files</tspan></text>
+        <g id="Group_5-4" data-name="Group 5" transform="translate(1299.054 219.725) rotate(45)">
+          <line id="Line_3-5" data-name="Line 3" y2="19.303" transform="translate(9.651)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+          <line id="Line_4-5" data-name="Line 4" y2="19.303" transform="translate(19.303 9.651) rotate(90)" fill="none" stroke="#8c96a8" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="632" height="102" rx="15" transform="translate(1026 770)" fill="#f7f7fb"/>
+      <g id="Group_9" data-name="Group 9" transform="translate(382 396)">
+        <g id="Group_8" data-name="Group 8" transform="translate(656.868 392.704)">
+          <g id="Subtraction_3-2" data-name="Subtraction 3" transform="translate(0.132 0.296)" fill="#fff">
+            <path d="M 43.00020217895508 64.49980163574219 L 5.00040340423584 64.49980163574219 C 2.51887321472168 64.49980163574219 0.5000032782554626 62.48133087158203 0.5000032782554626 60.00030136108398 L 0.5000032782554626 5.000401020050049 C 0.5000032782554626 2.518870830535889 2.51887321472168 0.5000008344650269 5.00040340423584 0.5000008344650269 L 32.48632049560547 0.5000008344650269 L 47.50060272216797 15.8087854385376 L 47.50060272216797 60.00030136108398 C 47.50060272216797 62.48133087158203 45.48173141479492 64.49980163574219 43.00020217895508 64.49980163574219 Z" stroke="none"/>
+            <path d="M 43.00020217895508 63.99980163574219 C 45.20603179931641 63.99980163574219 47.00060272216797 62.20563125610352 47.00060272216797 60.00030136108398 L 47.00060272216797 16.01305961608887 L 32.2763557434082 1.000000834465027 L 5.00040340423584 1.000000834465027 C 2.794573307037354 1.000000834465027 1.000003218650818 2.794570922851563 1.000003218650818 5.000401020050049 L 1.000003218650818 60.00030136108398 C 1.000003218650818 62.20563125610352 2.794573307037354 63.99980163574219 5.00040340423584 63.99980163574219 L 43.00020217895508 63.99980163574219 M 43.00020217895508 64.99980163574219 L 5.00040340423584 64.99980163574219 C 2.243173360824585 64.99980163574219 3.268432692493661e-06 62.75703048706055 3.268432692493661e-06 60.00030136108398 L 3.268432692493661e-06 5.000401020050049 C 3.268432692493661e-06 2.243170738220215 2.243173360824585 8.178710686479462e-07 5.00040340423584 8.178710686479462e-07 L 32.69627380371094 8.178710686479462e-07 L 48.00060272216797 15.60452079772949 L 48.00060272216797 60.00030136108398 C 48.00060272216797 62.75703048706055 45.7574348449707 64.99980163574219 43.00020217895508 64.99980163574219 Z" stroke="none" fill="#8c96a8"/>
+          </g>
+          <g id="Group_4" data-name="Group 4" transform="translate(32.427 0.543)">
+            <g id="Group_1-3" data-name="Group 1" transform="translate(0)">
+              <line id="Line_1-2" data-name="Line 1" y2="15.931" fill="none" stroke="#8c96a8" stroke-width="1"/>
+              <line id="Line_2-2" data-name="Line 2" x1="16" transform="translate(-0.294 14.754)" fill="none" stroke="#8c96a8" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <text id="JPG" transform="translate(676 448)" fill="#8c96a8" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">JPG</tspan></text>
+        <text id="IMG_3892.jpg-2" data-name="IMG_3892.jpg" transform="translate(724 419)" fill="#1f2532" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">IMG_3892.jpg</tspan></text>
+        <text id="File_size:_7_8_MB_-_File_type:_JPG-2" data-name="File size: 7,8 MB - File type: JPG" transform="translate(724 444)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">File size: 7,8 MB - File type: JPG</tspan></text>
+      </g>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="639" height="102" rx="15" transform="translate(1024 870)" fill="#f9f9fb" opacity="0"/>
+      <g id="Group_10" data-name="Group 10" transform="translate(382 496)">
+        <g id="Group_8-2" data-name="Group 8" transform="translate(656.868 392.704)">
+          <g id="Subtraction_3-3" data-name="Subtraction 3" transform="translate(0.132 0.296)" fill="#fff">
+            <path d="M 43.00020217895508 64.49980163574219 L 5.00040340423584 64.49980163574219 C 2.51887321472168 64.49980163574219 0.5000032782554626 62.48133087158203 0.5000032782554626 60.00030136108398 L 0.5000032782554626 5.000401020050049 C 0.5000032782554626 2.518870830535889 2.51887321472168 0.5000008344650269 5.00040340423584 0.5000008344650269 L 32.48632049560547 0.5000008344650269 L 47.50060272216797 15.8087854385376 L 47.50060272216797 60.00030136108398 C 47.50060272216797 62.48133087158203 45.48173141479492 64.49980163574219 43.00020217895508 64.49980163574219 Z" stroke="none"/>
+            <path d="M 43.00020217895508 63.99980163574219 C 45.20603179931641 63.99980163574219 47.00060272216797 62.20563125610352 47.00060272216797 60.00030136108398 L 47.00060272216797 16.01305961608887 L 32.2763557434082 1.000000834465027 L 5.00040340423584 1.000000834465027 C 2.794573307037354 1.000000834465027 1.000003218650818 2.794570922851563 1.000003218650818 5.000401020050049 L 1.000003218650818 60.00030136108398 C 1.000003218650818 62.20563125610352 2.794573307037354 63.99980163574219 5.00040340423584 63.99980163574219 L 43.00020217895508 63.99980163574219 M 43.00020217895508 64.99980163574219 L 5.00040340423584 64.99980163574219 C 2.243173360824585 64.99980163574219 3.268432692493661e-06 62.75703048706055 3.268432692493661e-06 60.00030136108398 L 3.268432692493661e-06 5.000401020050049 C 3.268432692493661e-06 2.243170738220215 2.243173360824585 8.178710686479462e-07 5.00040340423584 8.178710686479462e-07 L 32.69627380371094 8.178710686479462e-07 L 48.00060272216797 15.60452079772949 L 48.00060272216797 60.00030136108398 C 48.00060272216797 62.75703048706055 45.7574348449707 64.99980163574219 43.00020217895508 64.99980163574219 Z" stroke="none" fill="#8c96a8"/>
+          </g>
+          <g id="Group_4-2" data-name="Group 4" transform="translate(32.427 0.543)">
+            <g id="Group_1-4" data-name="Group 1" transform="translate(0)">
+              <line id="Line_1-3" data-name="Line 1" y2="15.931" fill="none" stroke="#8c96a8" stroke-width="1"/>
+              <line id="Line_2-3" data-name="Line 2" x1="16" transform="translate(-0.294 14.754)" fill="none" stroke="#8c96a8" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <text id="JPG-2" data-name="JPG" transform="translate(676 448)" fill="#8c96a8" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">JPG</tspan></text>
+        <text id="IMG_3892.jpg-3" data-name="IMG_3892.jpg" transform="translate(724 419)" fill="#1f2532" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">IMG_3892.jpg</tspan></text>
+        <text id="File_size:_7_8_MB_-_File_type:_JPG-3" data-name="File size: 7,8 MB - File type: JPG" transform="translate(724 444)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">File size: 7,8 MB - File type: JPG</tspan></text>
+      </g>
+      <g id="Group_11" data-name="Group 11" transform="translate(382 596)">
+        <g id="Group_8-3" data-name="Group 8" transform="translate(656.868 392.704)">
+          <g id="Subtraction_3-4" data-name="Subtraction 3" transform="translate(0.132 0.296)" fill="#fff">
+            <path d="M 43.00020217895508 64.49980163574219 L 5.00040340423584 64.49980163574219 C 2.51887321472168 64.49980163574219 0.5000032782554626 62.48133087158203 0.5000032782554626 60.00030136108398 L 0.5000032782554626 5.000401020050049 C 0.5000032782554626 2.518870830535889 2.51887321472168 0.5000008344650269 5.00040340423584 0.5000008344650269 L 32.48632049560547 0.5000008344650269 L 47.50060272216797 15.8087854385376 L 47.50060272216797 60.00030136108398 C 47.50060272216797 62.48133087158203 45.48173141479492 64.49980163574219 43.00020217895508 64.49980163574219 Z" stroke="none"/>
+            <path d="M 43.00020217895508 63.99980163574219 C 45.20603179931641 63.99980163574219 47.00060272216797 62.20563125610352 47.00060272216797 60.00030136108398 L 47.00060272216797 16.01305961608887 L 32.2763557434082 1.000000834465027 L 5.00040340423584 1.000000834465027 C 2.794573307037354 1.000000834465027 1.000003218650818 2.794570922851563 1.000003218650818 5.000401020050049 L 1.000003218650818 60.00030136108398 C 1.000003218650818 62.20563125610352 2.794573307037354 63.99980163574219 5.00040340423584 63.99980163574219 L 43.00020217895508 63.99980163574219 M 43.00020217895508 64.99980163574219 L 5.00040340423584 64.99980163574219 C 2.243173360824585 64.99980163574219 3.268432692493661e-06 62.75703048706055 3.268432692493661e-06 60.00030136108398 L 3.268432692493661e-06 5.000401020050049 C 3.268432692493661e-06 2.243170738220215 2.243173360824585 8.178710686479462e-07 5.00040340423584 8.178710686479462e-07 L 32.69627380371094 8.178710686479462e-07 L 48.00060272216797 15.60452079772949 L 48.00060272216797 60.00030136108398 C 48.00060272216797 62.75703048706055 45.7574348449707 64.99980163574219 43.00020217895508 64.99980163574219 Z" stroke="none" fill="#8c96a8"/>
+          </g>
+          <g id="Group_4-3" data-name="Group 4" transform="translate(32.427 0.543)">
+            <g id="Group_1-5" data-name="Group 1" transform="translate(0)">
+              <line id="Line_1-4" data-name="Line 1" y2="15.931" fill="none" stroke="#8c96a8" stroke-width="1"/>
+              <line id="Line_2-4" data-name="Line 2" x1="16" transform="translate(-0.294 14.754)" fill="none" stroke="#8c96a8" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <text id="JPG-3" data-name="JPG" transform="translate(676 448)" fill="#8c96a8" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">JPG</tspan></text>
+        <text id="IMG_3892.jpg-4" data-name="IMG_3892.jpg" transform="translate(724 419)" fill="#1f2532" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">IMG_3892.jpg</tspan></text>
+        <text id="File_size:_7_8_MB_-_File_type:_JPG-4" data-name="File size: 7,8 MB - File type: JPG" transform="translate(724 444)" fill="#8c96a8" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">File size: 7,8 MB - File type: JPG</tspan></text>
+      </g>
+      <text id="View_in_folder" data-name="View in folder" transform="translate(1639 827)" fill="#2091de" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-90.981" y="0">View in folder</tspan></text>
+      <text id="View_in_folder-2" data-name="View in folder" transform="translate(1639 927)" fill="#2091de" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-90.981" y="0">View in folder</tspan></text>
+      <text id="View_in_folder-3" data-name="View in folder" transform="translate(1639 1027)" fill="#2091de" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-90.981" y="0">View in folder</tspan></text>
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="382" height="60" rx="30" transform="translate(1152 1128)" fill="#2091de"/>
+      <text id="back_to_homepage" data-name="back to homepage" transform="translate(1343 1165)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="-88.863" y="0">BACK TO HOMEPAGE</tspan></text>
+    </g>
+  </g>
+</svg>
